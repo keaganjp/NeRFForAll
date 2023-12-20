@@ -1,5 +1,7 @@
 # NeRF for All: (EECS 504 Project)
 
+Project in collaboration with @anmolmansingh: https://github.com/anmolmansingh/NeRFForAll?tab=readme-ov-file
+
 An adaptation of a simple Python NeRF architecture (https://github.com/ayaanzhaque/nerf-from-scratch/tree/main) on the Middlebury dataset (https://vision.middlebury.edu/mview/data/). Data processing and other changes to the nerf architecture, to adapt to the dataset, included.
 
 ![](https://github.com/anmolmansingh/NeRFForAll/blob/main/gifs/training.gif)     ||       ![](https://github.com/anmolmansingh/NeRFForAll/blob/main/gifs/depth.gif)
